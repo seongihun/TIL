@@ -19,3 +19,5 @@ function func(value:number | string | Date | null | Person) {
 }
 
 func({name: 'sean', age: 29})
+
+//커밋 생성용 스크립트
